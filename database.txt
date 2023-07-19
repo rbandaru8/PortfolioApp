@@ -1,0 +1,6 @@
+#acts as database - email, message, subject will be stored. 
+
+x@x.com, testmsg, testsubj
+s@s.com, testmsg1, sdf
+ragini8@gmail.com, sdfsf, testsubject
+ragini8@gmail.com, xxfxdf, testsubj
